@@ -1,4 +1,5 @@
 # Required
+aiohttp
 pyrofork
 TgCrypto
 python-dotenv
